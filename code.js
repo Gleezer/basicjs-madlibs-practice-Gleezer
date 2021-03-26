@@ -18,9 +18,10 @@ document.write(
     ". It was a " +
     weather +
     " day as the " + royalty + " set out for the " + place + 
-    ". However it wasnt long before they realized they were hungry for " + food + 
+    ". However, it wasnt long before they realized they were hungry for " + food + 
     ". As they made their way to the " + food + " shop, they came across a " + creature +
     ". The " + creature +" begged for some food from the kind " + royalty + 
     ". The " + royalty + " happily shared their " + food + " with the " + creature +
     ". Then they all lived happily ever after, or something like that."
+    
 );
